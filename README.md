@@ -1,3 +1,4 @@
 # first-repository
-This  is my first git repository
-author prajwal 
+This  is my first git repository.
+<br>
+:Author _ prajwal 
